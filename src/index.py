@@ -47,7 +47,7 @@ Olutvarasto: {olutta}''')
     print(f'''Mehuvarasto: {mehua}
 mehua.otaVarastosta(-32.9)
 saatiin {saatiin}
-Mehuvarasto: {mehua}''')       
+Mehuvarasto: {mehua}''')
 
 
 if __name__ == "__main__":
